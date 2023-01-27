@@ -10,9 +10,28 @@ body{
 a:link._logo_{text-decoration: none;}
 a:hover._logo_{color:#6d0000}
 
+._leftspace_{ 
+    float:left;
+    text-align: center;
+    width:5%;
+    height:50px;
+}
+._midspace_{
+    position:left;
+    text-align:center;
+    width:90%;
+    height:50px;
+}
+._rightspace_{
+    position:right;
+    text-align:center;
+    width:5%;
+    height:50px;
+}
 ._infonav_{
-    display: inline;
+    background-color: rgb(38, 252, 181);
+    font-family: Arial, Helvetica, sans-serif;
 }
-.ilsole24ore .smart24condominio{
-    display: inline;
-}
+a:link.infolink{ text-decoration: none;}
+a:hover.infolink{ color:#6d0000; }
+a:visited.infolink{ color: midnightblue; }
