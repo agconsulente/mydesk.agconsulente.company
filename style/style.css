@@ -15,18 +15,21 @@ a:hover._logo_{color:#6d0000}
     text-align: center;
     width:5%;
     height:50px;
+    font-family: Arial;
 }
 ._midspace_{
     position:left;
     text-align:center;
     width:90%;
     height:50px;
+    font-family: Arial;
 }
 ._rightspace_{
     position:right;
     text-align:center;
     width:5%;
     height:50px;
+    font-family: Arial;
 }
 ._infonav_{
     background-color: rgb(38, 252, 181);
