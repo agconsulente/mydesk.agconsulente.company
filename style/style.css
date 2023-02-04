@@ -8,35 +8,39 @@ body {
   ._logo_{
     font-family: Verdana;
     font-size: 24px;
-    font-weight: bold;
+    font-weight: bolder;
     color: #06054e;
 }
+
 a:link._logo_{text-decoration: none;}
 a:hover._logo_{color:#6d0000}
-._hrow_{position: relative; width:100%;height: 90px; margin:10px 0px;}
-._row_{position: relative; width:100%;height: 120px; margin:10px 0px;}
+
+._hrow_{position: relative; width:100%;height:  70px; margin:10px 0px;}
+._row_ {position: relative; width:100%;height: 150px; margin:10px 0px;}
+h2 { margin: 0px 0px;}
 
 ._leftnavspace_{ 
     float:left;
     text-align:lfet;
-    width:10%;
-    height:70px;
+    width:5%;
+    height:50px;
     font-family: Arial;
     margin: 10px 0px;
 }
 ._midnavspace_{
     float:left;
     text-align:center;
-    width:80%;
-    height:70px;
+    width:90%;
+    height:50px;
     font-family: Arial;
     margin: 10px 0px;
 }
+
 ._rightnavspace_{
     float:right;
     text-align:left;
-    width:10%;
-    height:70px;
+    width:5%;
+    height:50px;
     font-family: Arial;
     margin: 10px 0px;
 }
@@ -45,30 +49,35 @@ a:hover._logo_{color:#6d0000}
     float:left;
     text-align: center;
     width:5%;
-    height:100px;
+    height:120px;
     font-family: Arial;
-    margin: 10px 0px;
+    margin: 20px 0px;
 }
+
 ._midspace_{
     float:left;
     text-align:center;
     width:90%;
-    height:100px;
+    height:120px;
     font-family: Arial;
-    margin: 10px 0px;
+    margin: 20px 0px;
 }
+
 ._rightspace_{
     float:right;
     text-align:center;
     width:5%;
-    height:100px;
+    height:120px;
     font-family: Arial;
-    margin: 10px 0px;
+    margin: 20px 0px;
 }
+
 ._infonav_{
     background-color: rgb(38, 252, 181);
     font-family: Arial, Helvetica, sans-serif;
 }
+
 a:link.infolink{color:midnightblue; text-decoration: none;}
 a:hover.infolink{color:#cf1818;text-decoration: none;}
 a:visited.infolink{color: midnightblue;text-decoration: none;}
+
